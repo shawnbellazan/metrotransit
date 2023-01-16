@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "174580044584",
+    "project_id": "metro-transit-af5d6",
+    "storage_bucket": "metro-transit-af5d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174580044584:android:e9201c0d79a3bcb51c761d",
+        "android_client_info": {
+          "package_name": "com.tooensure.metrotransit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174580044584-j1s242d877tq06h955p04qhtfmhsfohh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0_WWn_bQSvHBBnPHxBGvrt4lCTMwjxPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174580044584-j1s242d877tq06h955p04qhtfmhsfohh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
